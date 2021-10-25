@@ -1,7 +1,7 @@
-package com.github.cassiacristina.citiesapi;
+package com.github.cassiacristina.citiesapi.countries.resource;
 
-import com.github.cassiacristina.citiesapi.countries.Country;
-import com.github.cassiacristina.citiesapi.repository.CountryRepository;
+import com.github.cassiacristina.citiesapi.countries.entitie.Country;
+import com.github.cassiacristina.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

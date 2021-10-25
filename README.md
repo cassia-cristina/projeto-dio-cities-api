@@ -6,4 +6,4 @@ Projeto final: Construindo uma API Rest de consulta de cidades do Brasil com Spr
 
 
 
-Instrutor: https://github.com/andrelugomes
+Instrutor/idealizador: https://github.com/andrelugomes
