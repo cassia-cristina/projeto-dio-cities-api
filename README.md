@@ -6,4 +6,4 @@ Projeto final: Construindo uma API Rest de consulta de cidades do Brasil com Spr
 
 <img src=".\consulta_cidades.png" alt="image" style="zoom:100%;" />
 
-Instrutor/idealizador: https://github.com/andrelugomes
+Instrutor: André Luis Gomes
