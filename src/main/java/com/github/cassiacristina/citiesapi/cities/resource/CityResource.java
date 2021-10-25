@@ -2,7 +2,6 @@ package com.github.cassiacristina.citiesapi.cities.resource;
 
 import com.github.cassiacristina.citiesapi.cities.entitie.City;
 import com.github.cassiacristina.citiesapi.cities.repository.CityRepository;
-import com.github.cassiacristina.citiesapi.states.entitie.State;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

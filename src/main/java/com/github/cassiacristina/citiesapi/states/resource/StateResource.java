@@ -1,6 +1,5 @@
 package com.github.cassiacristina.citiesapi.states.resource;
 
-import com.github.cassiacristina.citiesapi.countries.entitie.Country;
 import com.github.cassiacristina.citiesapi.states.entitie.State;
 import com.github.cassiacristina.citiesapi.states.repository.StateRepository;
 import org.springframework.http.ResponseEntity;
