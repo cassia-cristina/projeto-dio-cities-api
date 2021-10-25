@@ -2,7 +2,7 @@
 
 
 
-Projeto final: Construindo uma API Rest de consulta de cidades do Brasil com Spring Boot.
+Projeto final: Construindo uma API Rest de consulta de cidades do Brasil com Spring Boot e Hibernate.
 
 
 

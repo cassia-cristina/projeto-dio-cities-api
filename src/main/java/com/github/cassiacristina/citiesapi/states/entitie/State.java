@@ -24,7 +24,7 @@ public class State {
 
     private Integer ibge;
 
-    // Opção trazendo o id do país
+    // Opção trazendo somente o id do país
     /* @Column(name = "pais")
     private Integer countryId;*/
 
@@ -61,7 +61,7 @@ public class State {
         return ddd;
     }
 
-    // Opção trazendo o id do país
+    // Opção trazendo somente o id do país
     /* public Integer getCountryId() {
       return countryId;
     }*/
