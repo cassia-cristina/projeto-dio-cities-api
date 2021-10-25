@@ -20,14 +20,14 @@ public class DistanceResource {
         this.service = service;
     }
 
-    @GetMapping("/by-points")
+    @GetMapping("/bypoints")
     public ResponseEntity byPoints(@RequestParam(name = "from") final Long city1,
                                    @RequestParam(name = "to") final Long city2) {
         log.info("byPoints");
         return ResponseEntity.ok().body(service.distanceByPointsInMiles(city1, city2));
     }
 
-    @GetMapping("/by-cube")
+    @GetMapping("/bycube")
     public ResponseEntity byCube(@RequestParam(name = "from") final Long city1,
                          @RequestParam(name = "to") final Long city2) {
         log.info("byCube");
